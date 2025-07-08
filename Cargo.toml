@@ -1,10 +1,10 @@
 [package]
 name = "openrouter-sdk"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Rust SDK for OpenRouter API"
 license = "MIT"
-repository = "https://github.com/your/repo"
+repository = "https://github.com/zaoinc/openrouter-sdk"
 
 [dependencies]
 reqwest = { version = "0.11", features = ["json"] }
