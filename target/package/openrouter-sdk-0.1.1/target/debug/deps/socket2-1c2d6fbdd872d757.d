@@ -1,0 +1,11 @@
+/home/sazalo/rust-llm/openrouter-sdk/target/package/openrouter-sdk-0.1.1/target/debug/deps/libsocket2-1c2d6fbdd872d757.rmeta: /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/lib.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sockaddr.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/socket.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sockref.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sys/unix.rs
+
+/home/sazalo/rust-llm/openrouter-sdk/target/package/openrouter-sdk-0.1.1/target/debug/deps/libsocket2-1c2d6fbdd872d757.rlib: /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/lib.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sockaddr.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/socket.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sockref.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sys/unix.rs
+
+/home/sazalo/rust-llm/openrouter-sdk/target/package/openrouter-sdk-0.1.1/target/debug/deps/socket2-1c2d6fbdd872d757.d: /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/lib.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sockaddr.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/socket.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sockref.rs /home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sys/unix.rs
+
+/home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/lib.rs:
+/home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sockaddr.rs:
+/home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/socket.rs:
+/home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sockref.rs:
+/home/sazalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.5.10/src/sys/unix.rs:
